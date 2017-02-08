@@ -1,0 +1,4 @@
+delay2 is: 90.0669 ms
+delay2 is: 93.7009 ms
+delay2 is: 94.239 ms
+delay2 is: 91.66 ms

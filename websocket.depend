@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1484274035 source:/home/yun/Code/CPP/websocket/ws.cpp
+	<iostream>
+	<cpprest/ws_client.h>
+	<cpprest/filestream.h>
+
+1483331693 source:/home/yun/Code/CPP/websocket/rest_http.cpp
+	<cpprest/http_client.h>
+	<cpprest/filestream.h>
+
+1483595465 source:/home/yun/Code/CPP/websocket/ws_binary.cpp
+	<cpprest/ws_client.h>
+	<cpprest/filestream.h>
+	<cpprest/producerconsumerstream.h>
+
+1486313274 source:/home/yun/Code/CPP/websocket/ram_lab_json.cpp
+	"ram_lab_com.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/document.h
+	"reader.h"
+	"internal/meta.h"
+	"internal/strfunc.h"
+	"memorystream.h"
+	"encodedstream.h"
+	<new>
+	<limits>
+	<iterator>
+	<utility>
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/allocators.h
+	"rapidjson.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/msinttypes/stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/msinttypes/inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/encodings.h
+	"rapidjson.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/memorystream.h
+	"stream.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/stack.h
+	"../allocators.h"
+	"swap.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/swap.h
+	"../rapidjson.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/ieee754.h
+	"../rapidjson.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/pow10.h
+	"../rapidjson.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/error/error.h
+	"../rapidjson.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/strfunc.h
+	"../stream.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/prettywriter.h
+	"writer.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/writer.h
+	"stream.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/internal/itoa.h
+	"../rapidjson.h"
+
+1483167067 /home/yun/Code/CPP/rapidjson-master/include/rapidjson/stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1484967088 source:/home/yun/Code/CPP/websocket/ram_lab_time.cpp
+	<stdio.h>
+	<sys/time.h>
+	<unistd.h>
+	<string>
+	<sstream>
+	<iostream>
+
+1485854325 source:/home/yun/Code/CPP/websocket/ram_lab_com.cpp
+	"ram_lab_com.h"
+
+1485856585 /home/yun/Code/CPP/websocket/ram_lab_com.h
+	<stdio.h>
+	<string>
+	<iostream>
+	<stdio.h>
+	<sys/time.h>
+	<unistd.h>
+	<sstream>
+	<iomanip>
+	"rapidjson/document.h"
+	"rapidjson/prettywriter.h"
+	"rapidjson/stringbuffer.h"
+	<cpprest/ws_client.h>
+	<cpprest/filestream.h>
+	<fstream>
+
